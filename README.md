@@ -3,9 +3,13 @@
 ##judul:
 ### The Art of Prompt Engineering
 
-#23:16
+#perangkat lunak:
+
+#1.Python
+
+#2.Jupiter Notebook
 
 #Author: Zahra
-
+#23:16
 
 
