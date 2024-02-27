@@ -1,6 +1,6 @@
 # Proyek pertama Stupen
 
-##judul:
+judul:
 ### The Art of Prompt Engineering
 
 #perangkat lunak:
