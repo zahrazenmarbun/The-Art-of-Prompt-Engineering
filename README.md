@@ -7,7 +7,7 @@ perangkat lunak:
 
 *1.Python*
 
-*2.Jupiter Notebook*
+*2.Jupyter*
 
 Author: **Zahra**
 #23:16
