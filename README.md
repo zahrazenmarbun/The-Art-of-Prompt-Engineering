@@ -10,7 +10,6 @@ Perangkat Lunak :
 
 
 
-
 Nama: **Zahra**
 
 <p align="left">
